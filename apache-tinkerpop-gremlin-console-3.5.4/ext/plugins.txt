@@ -1,3 +1,5 @@
 org.apache.tinkerpop.gremlin.console.jsr223.DriverGremlinPlugin
+org.apache.tinkerpop.gremlin.console.jsr223.GephiGremlinPlugin
 org.apache.tinkerpop.gremlin.console.jsr223.UtilitiesGremlinPlugin
+org.apache.tinkerpop.gremlin.sparql.jsr223.SparqlGremlinPlugin
 org.apache.tinkerpop.gremlin.tinkergraph.jsr223.TinkerGraphGremlinPlugin
